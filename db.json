@@ -1,12 +1,16 @@
 {
 "imgs":[
     {
+        "title":"image1",
       "img":"/img1"
+        
     },
     {
+        "title":"image2",
       "img":"/img2"
     },
     {
+        "title":"image3",
       "img":"/img3"
     }
     ]
