@@ -2,16 +2,16 @@
 "imgs":[
     {
         "title":"image1",
-      "img":"/img1"
+      "img":"/img1.jpg"
         
     },
     {
         "title":"image2",
-      "img":"/img2"
+      "img":"/img2.jpg"
     },
     {
         "title":"image3",
-      "img":"/img3"
+      "img":"/img3.jpg"
     }
     ]
 }
